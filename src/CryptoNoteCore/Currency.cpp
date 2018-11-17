@@ -117,7 +117,7 @@ bool Currency::getBlockReward(size_t medianSize, size_t currentBlockSize, uint64
   reward = penalizedBaseReward + penalizedFee;
 
   if(alreadyGeneratedCoins == 0) {
-    reward = UINT64_C(1600000000000000000);
+    reward = UINT64_C(1200000000000000000);
   }
 
   return true;
