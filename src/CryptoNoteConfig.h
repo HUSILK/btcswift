@@ -75,7 +75,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "BitcoinSwift";
 // const char     GENESIS_COINBASE_TX_HEX[]                     = "";
-const char GENESIS_COINBASE_TX_HEX[] = "013c01ff000180a0be819501029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101f5d70e251733b9f72ee9f3c6da5aec9c9e95d1292e5a748a21694f8e624b1702";
+const char GENESIS_COINBASE_TX_HEX[] = "013c01ff00018080e093c6b4d0d310029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101690c7b0ea681c2f080478f5da049b78b7c6db33a4def4ae1a66e9783b2d29ca6";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
